@@ -10,10 +10,10 @@
 
 ### 🧰 Tech Stack
 
-- 🔧 Tools: Git | Docker | GitHub Actions | Azure | NGINX
+- 🔧 Tools: Git | Docker | GitHub Actions | Azure | NGINX | Kubernetes
 - ☁️ Cloud: Azure | AWS (Basics)
 - 🧪 Testing: Pytest
-- 💬 Languages: Python | Bash | JavaScript
+- 💬 Languages: Python | Bash | Golang
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 📫 Let's Connect!
 
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/osemedua-umunna/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/osemedua-umunna/)
 - 💼 [Portfolio / Blog](#) (Add your personal site if you have one)
 
 ---
