@@ -1,8 +1,11 @@
 # Hi 👋, I'm Ose
 
-### ☁️ Cloud | DevOps | Site Reliability Engineer 🚀
+### ☁️ Cloud | DevOps | Site Reliability Engineer | Cybersecurity Analyst 🚀
 
 Driven Cloud and DevOps engineer passionate about building scalable systems, automating workflows, and enabling smooth CI/CD pipelines. Experienced in Azure, Docker, Linux, Python, and modern DevOps tooling. Always curious, always shipping. 💡
+
+Also as a Cybersecurity Solutions Consultant, I am responsible for safeguarding enterprise IT infrastructure, providing technical presales consultation, and delivering proactive security solutions to mitigate cyber threats. Currently, my role involves collaborating with clients and internal teams to recommend, implement, and support cybersecurity technologies, with a focus on Data Loss Prevention (DLP), Identity Management, and Security Monitoring.
+
 
 ---
 
