@@ -61,7 +61,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Deon-Gits&theme=tokyo-night&hide_border=true" />
+  <img src="[https://github-readme-activity-graph.cyclic.app/graph?username=Deon-Gits&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Deon-Gits&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)" />
 </p>
 
 ---
