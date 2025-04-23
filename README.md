@@ -1,6 +1,6 @@
-# Hi 👋, I'm Osemedua
+# Hi 👋, I'm Ose
 
-### ☁️ Cloud | DevOps | Backend Engineer | Automation Enthusiast 🚀
+### ☁️ Cloud | DevOps | Site Reliability Engineer 🚀
 
 Driven Cloud and DevOps engineer passionate about building scalable systems, automating workflows, and enabling smooth CI/CD pipelines. Experienced in Azure, Docker, Linux, Python, and modern DevOps tooling. Always curious, always shipping. 💡
 
