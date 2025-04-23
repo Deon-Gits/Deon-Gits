@@ -1,51 +1,78 @@
-<h1 align="center">Hi there 👋, I am Ose</h1>
-<h3 align="center">Cloud | DevOps | Backend Enthusiast 🚀</h3>
+# Hi 👋, I'm Osemedua
+
+### ☁️ Cloud | DevOps | Backend Engineer | Automation Enthusiast 🚀
+
+Driven Cloud and DevOps engineer passionate about building scalable systems, automating workflows, and enabling smooth CI/CD pipelines. Experienced in Azure, Docker, Linux, Python, and modern DevOps tooling. Always curious, always shipping. 💡
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deon-gits)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Deon-Gits)
+
+---
+
+## 🧠 Currently Exploring
+
+- 🔄 CI/CD Automation with GitHub Actions
+- 🐳 Dockerizing FastAPI & Flask Apps
+- 🌐 NGINX Config & Reverse Proxy Setup
+- ☁️ Azure Web Apps, Pipelines & DevOps Services
+- 🔍 Observability: Logging & Monitoring for Cloud Deployments
+
+---
+
+## 🔧 Tech Stack
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deon-gits&label=Profile%20views&color=0e75b6&style=flat" alt="deon-gits" />
-  <img src="https://img.shields.io/github/followers/deon-gits?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Deon-Gits&show_icons=true&theme=tokyonight" alt="Deon-Gits GitHub Stats" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
-
-- 🔧 Tools: Git | Docker | GitHub Actions | Azure | NGINX | Kubernetes
-- ☁️ Cloud: Azure | AWS (Basics)
-- 🧪 Testing: Pytest
-- 💬 Languages: Python | Bash | Golang
-
----
-
-### 📊 GitHub Stats
+## 📌 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deon-gits&show_icons=true&theme=tokyonight" alt="deon-gits stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deon-Gits&layout=compact&theme=tokyonight" alt="Top languages used" />
 </p>
 
 ---
 
-### 📌 Top Languages
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deon-gits&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Deon-Gits&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## ✍️ Recent Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deon-gits&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/osemedua-umunna/)
-- 💼 [Portfolio / Blog](#) (Add your personal site if you have one)
+- 🔢 **Number Classification API** - Flask API deployed on Azure Web App. Returns number properties and fun facts. *(Hosted on GitHub & Azure)*
+- 📚 **Book API** - FastAPI-based microservice with CI/CD & NGINX deployment. *(Dockerized with GitHub Actions)*
+- 🛠️ **NGINX Config Toolkit** - Custom reverse proxy templates for DevOps deployments.
 
 ---
 
-<p align="center">✨ Built with passion and caffeine ✨</p>
+## 📫 Reach Out
+
+💬 Open to collaboration, internships, or cloud-native fun. Drop a message on [LinkedIn](https://www.linkedin.com/in/osemedua-umunna) or open an issue in any of my repos!
+
+---
+
+<p align="center">✨ Powered by caffeine & the joy of solving problems ✨</p>
+
