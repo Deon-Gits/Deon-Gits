@@ -76,9 +76,9 @@
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deon-gits)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osemedua-umunna)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Deon-Gits)
 
 ---
 
-<p align="center">✨ Fortes Fortuna Adiuvat ✨</p>
+<p align="center"><b>✨ Fortes Fortuna Adiuvat ✨</b></p>
