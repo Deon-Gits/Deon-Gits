@@ -77,5 +77,5 @@ Also as a Cybersecurity Solutions Consultant, I am responsible for safeguarding 
 
 ---
 
-<p align="center">✨ Powered by caffeine & the joy of solving problems ✨</p>
+<p align="center">✨ For the love of DevOps ✨</p>
 
