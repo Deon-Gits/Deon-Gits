@@ -24,6 +24,13 @@
   <img src="https://skillicons.dev/icons?i=azure,docker,linux,githubactions,nginx,python,github,kubernetes,git,vscode,gitlab" />
 </p>
 
+## 🖼️ Certification Badges
+
+[![Azure Fundamentals](https://images.credly.com/size/110x110/images/your-badge-image.png)](https://www.credly.com/badges/98203d35-8f5e-40c2-a296-6ef5c409f987/public_url)
+[![Red Hat Certified System Administrator](https://images.credly.com/size/110x110/images/your-badge-image.png)](https://www.credly.com/badges/98203d35-8f5e-40c2-a296-6ef5c409f987/public_url)
+[![Linux Essentials Certificate](https://images.credly.com/size/110x110/images/your-badge-image.png)](https://www.credly.com/badges/978e0feb-f6f2-4302-8bbc-e308935d869c/public_url)
+[![Azure Data Fundamentals](https://images.credly.com/size/110x110/images/your-badge-image.png)](https://www.credly.com/badges/39efa0cf-80d7-4f8b-8880-2e81afd4be71/public_url)
+
 ---
 
 ### 🏆 GitHub Trophies
