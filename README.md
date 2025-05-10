@@ -30,7 +30,8 @@
 |---------------|--------|------|
 | [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/98203d35-8f5e-40c2-a296-6ef5c409f987/public_url) | Microsoft | Jan 2023 |
 | [Red Hat Certified System Administrator (RHCSA)](https://www.credly.com/badges/98203d35-8f5e-40c2-a296-6ef5c409f987/public_url) | Red Hat | Mar 2025 |
-| [Linux Essentials Certificate](https://www.credly.com/badges/978e0feb-f6f2-4302-8bbc-e308935d869c/public_url) | The Linux Foundation | May 2025 |
+| [Red Hat Certified System Administrator II (RHCSA)](https://www.credly.com/badges/609527c8-0e9c-4e62-9dd2-9dc8030161f1/public_url) | Red Hat | Mar 2025 |
+| [Introduction to Linux](https://www.credly.com/badges/978e0feb-f6f2-4302-8bbc-e308935d869c/public_url) | The Linux Foundation | May 2025 |
 | [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/39efa0cf-80d7-4f8b-8880-2e81afd4be71/public_url) | Microsoft | Jul 2023 |
 | [Introduction to Cloud Infrastructure Technologies](https://www.credly.com/badges/377a3d0c-28ac-404f-a1bc-0ab740ee6e7b/public_url) | The Linux Foundation | May 2025 |
 ---
